@@ -1,0 +1,24 @@
+{
+  "usuarios": [
+    {
+      "id": "1",
+      "nome": "Kauan",
+      "idade": 19,
+      "endereco": "Rua Águas de Lindóia, São Joaquim, Santa Bárbara D'Oeste",
+      "cpf": "12345678901",
+      "email": "kauan@gmail.com",
+      "telefone": "19 995492847",
+      "data_nascimento": "17-10-2004"
+    },
+    {
+      "id": "513e",
+      "nome": "123",
+      "idade": "123",
+      "endereco": "123",
+      "cpf": "123",
+      "email": "123",
+      "telefone": "123",
+      "data_nascimento": "123"
+    }
+  ]
+}
